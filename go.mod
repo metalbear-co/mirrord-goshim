@@ -1,4 +1,4 @@
-module mirrord-init
+module mirrord-goshim
 
 go 1.18
 
