@@ -1,4 +1,4 @@
-module mirrord-goshim
+module github.com/metalbear-co/mirrord-goshim
 
 go 1.18
 
